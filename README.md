@@ -1,2 +1,2 @@
-# HexaRealm-Tileset
-A tileset mod for Unciv, featuring milder colors and better resolution of tiles!
+# ClassiRealm-Tileset
+A tileset mod for Unciv this mod incorporates elements of 5Hex, HexaRealm and RatByte's Free Hex Tile Game Assets from itch.io...
